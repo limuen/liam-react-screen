@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/liam-react-screen/static/css/main.ce50b9fa.css",
+    "main.js": "/liam-react-screen/static/js/main.43a5b6c8.js",
+    "static/js/362.3c0e6309.chunk.js": "/liam-react-screen/static/js/362.3c0e6309.chunk.js",
+    "static/media/nav.png": "/liam-react-screen/static/media/nav.d4099ee6bd409dd575e7.png",
+    "static/media/light.png": "/liam-react-screen/static/media/light.651a48e9ae5ca9542bc1.png",
+    "index.html": "/liam-react-screen/index.html",
+    "main.ce50b9fa.css.map": "/liam-react-screen/static/css/main.ce50b9fa.css.map",
+    "main.43a5b6c8.js.map": "/liam-react-screen/static/js/main.43a5b6c8.js.map",
+    "362.3c0e6309.chunk.js.map": "/liam-react-screen/static/js/362.3c0e6309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce50b9fa.css",
+    "static/js/main.43a5b6c8.js"
+  ]
+}
